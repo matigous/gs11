@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/cli": "^7.13.14",
-    "@babel/core": "^7.13.14",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.13.12",
     "@babel/preset-react": "^7.13.13",
     "babel-loader": "^8.2.2",
@@ -15,6 +15,6 @@
     "webpack-cli": "^4.6.0"
   },
   "devDependencies": {
-    "webpack-dev-server": "^3.11.2"
+    "webpack-dev-server": "^5.2.6"
   }
 }
